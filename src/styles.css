@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.negrita {
+  font-weight: bold;
+}
+
+p {
+  font-size: 22px;
+}
+
+
+.link {
+  font-style: normal;
+  text-decoration: none;
+  color: aliceblue;
+  margin-left: 0.2em;
+}
